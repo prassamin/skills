@@ -54,7 +54,7 @@
 - [ ] **No bracket spacing** — `w-100` not `w-[400px]`, `p-8` not `p-[32px]` (v4: `value × 4px`)
 - [ ] **No bracket opacity** — `bg-primary/4` not `bg-primary/[0.04]` (v4: integer = percent)
 - [ ] **No bracket z-index** — `z-999` not `z-[999]` (v4: any integer works)
-- [ ] **Brackets only when truly needed** — e.g., `grid-cols-[1fr_2fr]`, `bg-[url(...)]`
+- [ ] **Brackets only when truly needed** — e.g., `grid-cols-[1fr_2fr]`
 
 ## Performance
 
